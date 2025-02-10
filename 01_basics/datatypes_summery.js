@@ -43,6 +43,20 @@ Return type of variables in JavaScript
 //        Object  =>  object
 
 
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+// stack(primitive) , heap(Non-primitive)
+
+
+let myName  = "TanujBhandari"
+let anothername = "chaiorcode"
+anothername = "aditimishra"
+let user ={
+    email : "user@google.com"
+    upi: "user@apl"
+
+}
+
+let userTwo = user;
 
 
